@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://im5.ezgif.com/tmp/ezgif-5-83a96c85af.gif
+![](https://github.com/gouds22s/Codepath-Prework/blob/main/ezgif-7-cfde7243f7.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
